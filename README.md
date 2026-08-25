@@ -33,6 +33,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=potato9j&theme=radical" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-cards-output/github_dark/0-profile-details.svg" alt="전체 요약" />
+  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-cards-output/github_dark/1-repo-languages.svg" alt="언어 통계" />
+</div>
+
 ### 🛠 Languages and Tools
 
 <div align="center">
