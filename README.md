@@ -23,8 +23,14 @@
 </div>
 
 <div align="center">
+  <!-- 1. 기존 코드 (시간이 지나면 자동으로 복구됨) -->
   <img src="https://github-readme-stats.vercel.app/api?username=potato9j&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato9j&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <br/>
+  
+  <!-- 2. 새로운 연속 커밋 통계 카드 (다른 서버라 바로 보일 확률이 높음!) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potato9j&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 🛠 Languages and Tools
