@@ -23,19 +23,14 @@
 </div>
 
 <div align="center">
-  <!-- 1. 기존 코드 (시간이 지나면 자동으로 복구됨) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=potato9j&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato9j&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- 1. 새롭게 만든 요약 & 언어 통계 카드 (내부 경로로 즉시 반영) -->
+  <img src="./profile-summary-cards-output/github_dark/0-profile-details.svg" alt="전체 요약" />
+  <img src="./profile-summary-cards-output/github_dark/1-repo-languages.svg" alt="언어 통계" />
   
-  <br/>
+  <br/><br/>
   
-  <!-- 2. 새로운 연속 커밋 통계 카드 (다른 서버라 바로 보일 확률이 높음!) -->
+  <!-- 2. 에러 없이 잘 나오는 연속 커밋(Streak) 카드 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=potato9j&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-cards-output/github_dark/0-profile-details.svg" alt="전체 요약" />
-  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-cards-output/github_dark/1-repo-languages.svg" alt="언어 통계" />
 </div>
 
 ### 🛠 Languages and Tools
