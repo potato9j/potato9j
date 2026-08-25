@@ -22,6 +22,8 @@
   </p>
 </div>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=potato9j&show_icons=true&theme=radical)](https://github.com/potato9j)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato9j&layout=compact&theme=radical)](https://github.com/potato9j)
 
 ### 🛠 Languages and Tools
 
