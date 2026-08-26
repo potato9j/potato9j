@@ -13,7 +13,6 @@
 
   <br/>
 
-
   <!-- 소셜 -->
   <p>
     <a href="mailto:success52786@gmail.com">
@@ -23,13 +22,13 @@
 </div>
 
 <div align="center">
-  <!-- 1. 새롭게 만든 요약 & 언어 통계 카드 (내부 경로로 즉시 반영) -->
+  <!-- 1. 요약 & 언어 통계 카드 (내부 경로로 즉시 반영) -->
   <img src="./profile-summary-cards-output/github_dark/0-profile-details.svg" alt="전체 요약" />
   <img src="./profile-summary-cards-output/github_dark/1-repo-languages.svg" alt="언어 통계" />
   
   <br/><br/>
   
-  <!-- 2. 에러 없이 잘 나오는 연속 커밋(Streak) 카드 -->
+  <!-- 2.  커밋(Streak) 카드 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=potato9j&theme=radical" alt="GitHub Streak" />
 </div>
 
@@ -44,7 +43,6 @@
 
   <br/><br/>
 
-
   <!-- 카테고리별 뱃지 -->
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -56,47 +54,47 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   </p>
+  
 </div>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Info...  
-
-
 ```javascript
 const jeongWook = {
   name: "Jeong Wook Lee",
   startedCoding: "2017 (Age 14)",
-  languages: ["JavaScript", "Python", "R", "Kotlin", "HTML", "CSS"],
+  languages: {
+    Main: ["JavaScript", "Kotlin", "HTML", "CSS"],
+    Serve: ["R", "Python"]
+  },
   focus: [
-    "Interactive Data Visualization",
-    "Node.js Backend Architecture",
-    "Web Security"
+    "Data Analysis",
+    "Node.js Backend Architecture"
   ],
   technologies: {
     frontend: ["React"],
-    backend: ["Node.js"],
+    backend: ["Node.js"]
   },
   Major: {
-    Main: ["Department of Business Administration"]
-    Serve1: ["Finance"]
+    Main: ["Department of Business Administration"],
+    Serve1: ["Finance"],
     Serve2: ["Data Science"]
   },
-  ],
   archiveNote: "This account is a personal archive for finalized projects. Work repos are maintained separately."
 };
 ```
-
 ---
 
 ### 🏆 Hackathons & Challenges
 
-| Year | Challenge / Event | Track & Domain |
-| :---: | :--- | :--- |
-| **2026** | **KPDC 극지빅데이터-인공지능 경진대회** *(KOPRI / KPDC)* | AI & Big Data Analysis |
-| **2026** | **Hackonomics2026** | Financial Modeling & Data Visualization |
-| **2026** | **Google Gemini-3 Hackathon** | Generative AI Application |
-| **2025** | **GitLab AI Hackathon** | AI Workflow Integration |
-| **2024** | **사이버공격방어대회 (CCE)** | Web & System Defense |
+| Year | Challenge / Event | Track & Domain | Host |
+| :---: | :--- | :--- | :--- |
+| **2026** | **KPDC 극지빅데이터-인공지능 경진대회** | AI & Big Data Analysis | KPDC / KOPRI |
+| **2026** | **Hackonomics2026** | Interactive Stock Theory LAB | - |
+| **2026** | **Google Gemini-3 Hackathon** | Quant-Based Pattern Matching & Probability Density Analysis | Google DeppMind |
+| **2025** | **GitLab AI Hackathon** | Security Sentinel | GitLab / Google Cloud / ANTROPIC | 
+| **2024** | **사이버공격방어대회 (CCE)** | CTF | 국정원 | 
+| **2024** | **Hackonomics2025** | Adaptive Stock Prediction Model in 1-5 Business Days | - |
 
 
 
