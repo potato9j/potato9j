@@ -57,11 +57,6 @@
   <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Repos per Language" />
   <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/2-most-commit-language.svg" alt="Most Commit Language" />
   
-  <br/>
-  
-  <!-- 3. 맨 아래 시간 및 스탯 카드 2개 -->
-  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/3-stats.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 ---
