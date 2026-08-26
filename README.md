@@ -21,16 +21,6 @@
   </p>
 </div>
 
-<div align="center">
-  <!-- 1. 요약 & 언어 통계 카드 (내부 경로로 즉시 반영) -->
-  <img src="./profile-summary-cards-output/github_dark/0-profile-details.svg" alt="전체 요약" />
-  <img src="./profile-summary-cards-output/github_dark/1-repo-languages.svg" alt="언어 통계" />
-  
-  <br/><br/>
-  
-  <!-- 2.  커밋(Streak) 카드 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potato9j&theme=radical" alt="GitHub Streak" />
-</div>
 
 ### 🛠 Languages and Tools
 
@@ -57,6 +47,24 @@
   
 </div>
 
+<div align="center">
+  <!-- 1. 맨 위 넓은 카드 -->
+  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/0-profile-details.svg" alt="Profile Details" />
+  
+  <br/>
+  
+  <!-- 2. 중간 언어 통계 카드 2개 -->
+  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/2-most-commit-language.svg" alt="Most Commit Language" />
+  
+  <br/>
+  
+  <!-- 3. 맨 아래 시간 및 스탯 카드 2개 -->
+  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/potato9j/potato9j/main/profile-summary-card-output/vue/4-productive-time.svg" alt="Productive Time" />
+</div>
+
+---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Info...  
 ```javascript
@@ -70,6 +78,9 @@ const jeongWook = {
   focus: [
     "Data Analysis",
     "Node.js Backend Architecture"
+  ],
+  currently focus: [
+    "졸업하기"
   ],
   technologies: {
     frontend: ["React"],
