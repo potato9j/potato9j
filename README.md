@@ -102,6 +102,15 @@ const jeongWook = {
 | **2024** | **사이버공격방어대회 (CCE)** | CTF | 국정원 | 
 | **2024** | **Hackonomics2025** | Adaptive Stock Prediction Model in 1-5 Business Days | - |
 
+---
+
+### 📜 Research & Reports
+
+| Year | Research Title | Domain | data | Methodology & Tools | Link / Status |
+| :---: | :------------- | :--- | --- | --- | --- |
+| 2025 | 경영사례분석: KB금융 vs. 신한지주 | 기업경영 | DART(전자공시시스템) | Python, Valuation Models | - |
+| 2026 | 상급종합병원의 환자경험평가 결정요인: 재무비율과 병원특성을 중심으로 | 병원경영 | 공공데이터포털, 보건의료빅데이터개방포털, HIRA, KHIDI, MOHW  | R, Python, Excel | [Git Repo.](https://github.com/potato9j/SH-Hospital_Management_Analysis) |
+| 2026 | 서부 북극해 엽록소의 대표성과 위성 관측 한계 | 극지빅데이터 | 한국극지데이터센터KPDC, NASA(MODIS), NOAA(NSIDC, OISST), COPERNICUS, GEBCO | R, Python, Excel, netCDF | [Git Repo.](https://github.com/potato9j/X-KPDC-Polardata) |
 
 
 ---
