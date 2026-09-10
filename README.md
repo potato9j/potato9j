@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    코딩하는 경영학도라고 들어보셨습니까. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    취미로 합니다.. 가끔 돈 필요할 때 대회 참가하고.. 내 꿈은 개발자가 아녀. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
 
