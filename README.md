@@ -63,8 +63,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Info...  
 ```javascript
-const jeongWook = {
-  name: "Jeong Wook Lee",
+const ME = {
+  name: "wooggiggi",
   startedCoding: "2017 (Age 14)",
   languages: {
     Main: ["JavaScript", "Kotlin", "HTML", "CSS"],
@@ -75,7 +75,7 @@ const jeongWook = {
     "Node.js Backend Architecture"
   ],
   currently focus: [
-    "졸업하기"
+    "졸업하기..!"
   ],
   technologies: {
     frontend: ["React"],
@@ -86,7 +86,7 @@ const jeongWook = {
     Serve1: ["Finance"],
     Serve2: ["Data Science"]
   },
-  archiveNote: "This account is a personal archive for finalized projects. Work repos are maintained separately."
+  archiveNote: "내 꿈은 개발자 또는 유관 직업이 아니야.. 전혀 다른.."
 };
 ```
 ---
@@ -98,15 +98,16 @@ const jeongWook = {
 | **2026** | **KPDC 극지빅데이터-인공지능 경진대회** | AI & Big Data Analysis | KPDC / KOPRI |
 | **2026** | **Hackonomics2026** | Interactive Stock Theory LAB | - |
 | **2026** | **Google Gemini-3 Hackathon** | Quant-Based Pattern Matching & Probability Density Analysis | Google DeppMind |
-| **2025** | **GitLab AI Hackathon** | Security Sentinel | GitLab / Google Cloud / ANTROPIC | 
+| **2026** | **GitLab AI Hackathon** | Security Sentinel | GitLab / Google Cloud / ANTROPIC | 
 | **2024** | **사이버공격방어대회 (CCE)** | CTF | 국정원 | 
-| **2024** | **Hackonomics2025** | Adaptive Stock Prediction Model in 1-5 Business Days | - |
+| **2025** | **Hackonomics2025** | Adaptive Stock Prediction Model in 1-5 Business Days | - |
+> 수상하지 못하더라도 명확한 배움과 결과물이 있는 경우 기입.
 
 ---
 
 ### 📜 Research & Reports
 
-> 현재 경영학과 학부생 신분으로, 데이터 분석 전공 수업 또는 경진대회에 참가하여 작성한 레포트 리스트 입니다. <br> (양질의 레포트만 리스트에 추가)
+> 현재 경영학과 학부생으로, 데이터 분석 전공 수업 또는 경진대회에 참가하여 작성한 레포트 리스트 입니다. <br> (양질의 레포트만 리스트에 기입)
 
 - 교내 전공 수업에서 작성한 일부 레포트는 교수님께서 **'전문 학술지에 투고해보고 싶은 수준의 레포트'** 라는 평을 받는 수준으로, <br> 모든 레포트에 대해 주먹구구식으로 작성하는 것이 아닌 오랜 시간을 투자하여 작성하였습니다. 💯
 
