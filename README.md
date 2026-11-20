@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    취미로 합니다.. 가끔 돈 필요할 때 대회 참가하고.. 내 꿈은 개발자가 아녀. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    취미로 합니다.. 가끔 돈 필요할 때 대회 참가하고.. 내 꿈은 개발자가 아녀. 그리고 수학을 좋아할 뿐. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
 
@@ -69,6 +69,7 @@ const ME = {
   languages: {
     Main: ["JavaScript", "Kotlin", "HTML", "CSS"],
     Serve: ["R", "Python"]
+    I_Hate: ["C", "C++", "C#"]
   },
   focus: [
     "Data Analysis",
@@ -86,7 +87,7 @@ const ME = {
     Serve1: ["Finance"],
     Serve2: ["Data Science"]
   },
-  archiveNote: "내 꿈은 개발자 또는 유관 직업이 아니야.. 전혀 다른.."
+  archiveNote: "내 꿈은 은행원이다."
 };
 ```
 ---
@@ -99,8 +100,8 @@ const ME = {
 | **2026** | **Hackonomics2026** | Interactive Stock Theory LAB | - |
 | **2026** | **Google Gemini-3 Hackathon** | Quant-Based Pattern Matching & Probability Density Analysis | Google DeppMind |
 | **2026** | **GitLab AI Hackathon** | Security Sentinel | GitLab / Google Cloud / ANTROPIC | 
-| **2024** | **사이버공격방어대회 (CCE)** | CTF | 국정원 | 
 | **2025** | **Hackonomics2025** | Adaptive Stock Prediction Model in 1-5 Business Days | - |
+| **2024** | **사이버공격방어대회 (CCE)** | CTF | 국정원 | 
 > 수상하지 못하더라도 명확한 배움과 결과물이 있는 경우 기입.
 
 ---
@@ -109,7 +110,10 @@ const ME = {
 
 > 현재 경영학과 학부생으로, 데이터 분석 전공 수업 또는 경진대회에 참가하여 작성한 레포트 리스트 입니다. <br> (양질의 레포트만 리스트에 기입)
 
-- 교내 전공 수업에서 작성한 일부 레포트는 교수님께서 **'전문 학술지에 투고해보고 싶은 수준의 레포트'** 라는 평을 받는 수준으로, <br> 모든 레포트에 대해 주먹구구식으로 작성하는 것이 아닌 오랜 시간을 투자하여 작성하였습니다. 💯
+- 교내 전공 수업에서 작성한 일부 레포트는 교수님께서 **'전문 학술지에 투고해보고 싶은 수준의 레포트'** 라는 평을 받았으며, <br> 모든 레포트에 대해 주먹구구식으로 작성하는 것이 아닌 오랜 시간을 투자하여 작성하였습니다. 💯
+
+- 최근 국내 AI 부정행위 관련하여 많은 이슈가 되고있습니다. 저는 시간 빌게이츠라 그런 짓 안합니다.
+- 모든 레포트는 교내 표절검사와 교수님의 AI탐색기를 거쳐 평가받았으며, 발표와 수많은 질의응답, 작업 타임라인을 통해 검증된 제 시간이 갈린 소중한 작업물입니다. 
 
 | Year | Research Title | Domain | data | Methodology & Tools | Link / Status |
 | :---: | :------------- | :--- | --- | --- | --- |
